@@ -1,0 +1,12 @@
+## Interface: 60000
+## Title: MacroTip
+## Notes: Updates a macro's showtooltip based on talent selected.
+## SavedVariables: MacroTipDB
+## Author: Outroot
+## Version: 0.0.1
+## X-Curse-Packaged-Version: v0.0.1
+## X-Curse-Project-Name: MacroTip
+## X-Curse-Project-ID: MacroTip
+## X-Curse-Repository-ID: wow/MacroTip/mainline
+
+MacroTip.lua
